@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+pymongo
+sentence-transformers
+requests
+beautifulsoup4
+python-dotenv
